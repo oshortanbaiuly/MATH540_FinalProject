@@ -1,5 +1,3 @@
-# MATH540_FinalProject
-
 # MATH540 Final Project
 
 #Authors: Olzhas Shortanbaiuly, Aigerim Kalizhanova
