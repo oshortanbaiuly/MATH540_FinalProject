@@ -6,4 +6,4 @@
 
 #OlzhasShortanbaiuly_AigerimKalizhanova_MATH540_ProjectCode: .ipynb file written in Google Colaboratory, containing the Python code for Hard-SVM and error analysis.
 
-Contribution: All the programming work was done by Olzhas Shortanbaiuly, all the analysis work was shared.
+Contribution: I did all the programming and analysis of the results, Aigerim collected all of this and prepared a LaTex report.
